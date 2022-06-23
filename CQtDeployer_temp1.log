@@ -1,5 +1,5 @@
 ちょっとだけ変更
-
+git diff 
 user@user-VirtualBox:~/UI_repo_0617/originalui_forembedded/build$ cqtdeployer.sh -bin navi_app -qmake /opt/Qt/5.15.2/gcc_64/bin/qmake -qmlDir .. -targetDir ./temp1 -libDir . -recursiveDepth 3 deploySystem > aaa
 
 user@user-VirtualBox:~/UI_repo_0617/originalui_forembedded/build$ cat aaa
