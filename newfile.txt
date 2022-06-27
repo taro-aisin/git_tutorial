@@ -3,3 +3,5 @@
 git commit --amend
 
 git merge のテスト
+
+コンフリクト
