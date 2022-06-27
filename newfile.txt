@@ -1,3 +1,5 @@
 当り障りのないテキストファイル。
 
 git commit --amend
+
+git merge のテスト
